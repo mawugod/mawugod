@@ -1,10 +1,10 @@
 # 🚀 Profile  
 
-Hello! I'm **Dickson Mawuli H.**, an aspiring **SOC Engineer** with a strong foundation in **cybersecurity, networking, and IT support**.  
+Hello! I'm **Dickson Mawuli Hodowu.**, an aspiring **SOC Engineer** with a strong foundation  as an **IT support Engineer** well over 8 years.  
 
-I recently earned my **Master’s in Cybersecurity**, graduating as the **Best Overall Student for the 2023/2024 academic year**. My experience spans both **government and private sectors**, where I have worked as a **Network & IT Support Specialist, Assistant Lecturer, and Tutor**.  
+Graduated with **Master’s in Cybersecurity**, and awarded the **Best Overall Cybersecurity  Performance Student for the 2023/2024 academic year**.  My experience spans both **government and private sectors**, where I have worked as a **Network & IT Support Specialist** and in Academia as a **Tutor**.  
 
-Passionate about continuous learning, I am always exploring new technologies and sharpening my skills to stay ahead in the ever-evolving cybersecurity landscape.  
+Passionate about continuous learning, I am always exploring new technologies and sharpening my skills to stay ahead in the ever-evolving technology landscape.  
 
 ## 🎯 Objective  
 
@@ -14,9 +14,9 @@ Dedicated to **learning and building hands-on projects** in **cybersecurity** wi
 ## 🛠 Skills  
 
 ### 🔍 Cybersecurity & Investigations  
+- **Network Security**
 - **Digital Forensics**  
 - **Open-Source Intelligence (OSINT)**  
-- **Ethical Hacking**  
 - **Vulnerability Management**  
 
 ### 🌐 IT Infrastructure & Networking  
@@ -25,13 +25,19 @@ Dedicated to **learning and building hands-on projects** in **cybersecurity** wi
 - **Microsoft Azure**
 
 ## Projects
+- Installation, configuration and management of Ghana Water Network - Regional and Sub offices.
+- Implementation Engineer for Ghana Case Tracking System 
+- E-commerce sites developments
+- E-learning Website to educate users about cybersecurity related topic
+- Forensic Analysis Using Cellebrite Physical Analyzer, Autopsy,etc.
+- Pcap Analysis Using Wireshark
 - Detection Lab
 - SOC Automation Project
 
  ## Tools
+ - Wireshark, Cellebrite Phisical Analyzer, Autopsy, Microsoft 365, etc.
 
 ## 🎓 Certifications & Education
-
 ### Professional Certifications  
 <div>
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
