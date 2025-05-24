@@ -1,8 +1,8 @@
 # 🚀 Profile  
 
-Hello! I'm **Dickson Mawuli Hodowu.**, an aspiring **SOC Engineer** with a strong foundation  as an **IT support Engineer** well over 8 years.  
+Hello! I'm **Dickson Mawuli Hodowu.**, an **IT Technical Support Engineer** well over 8 years and aspiring **SOC Engineer**.  
 
-Graduated with **Master’s in Cybersecurity**, and awarded the **Best Overall Cybersecurity  Performance Student for the 2023/2024 academic year**.  My experience spans both **government and private sectors**, where I have worked as a **Network & IT Support Specialist** and in Academia as a **Tutor**.  
+Graduated with **Master’s in Cybersecurity**, and awarded the **Best Overall Cybersecurity  Performance Student for the 2023/2024 academic year**.  My experience spans both **government and private sectors**, where I have worked as a **Network & IT Technical Support Specialist** and in Academia as a **Tutor**.  
 
 Passionate about continuous learning, I am always exploring new technologies and sharpening my skills to stay ahead in the ever-evolving technology landscape.  
 
@@ -22,9 +22,10 @@ Dedicated to **learning and building hands-on projects** in **cybersecurity** wi
 ### 🌐 IT Infrastructure & Networking  
 - **Computer Networking**  
 - **Microsoft 365 Administration**  
-- **Microsoft Azure**
+- **Microsoft Azure/ Active Directory**
 
 ## Projects
+- Enterprise Windows Server Infrastructure Deployment & Management Lab using Hyper-V
 - Installation, configuration and management of Ghana Water Network - Regional and Sub offices.
 - Implementation Engineer for Ghana Case Tracking System 
 - E-commerce sites developments
