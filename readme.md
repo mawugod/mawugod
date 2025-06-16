@@ -13,18 +13,31 @@ Dedicated to **learning and building hands-on projects** in **cybersecurity** wi
 
 ## 🛠 Skills  
 
-### 🔍 Cybersecurity & Investigations  
-- **Network Security**
-- **Digital Forensics**  
-- **Open-Source Intelligence (OSINT)**  
-- **Vulnerability Management**  
+ 
 
 ### 🌐 IT Infrastructure & Networking  
 - **Computer Networking**  
 - **Microsoft 365 Administration**  
 - **Microsoft Azure/ Active Directory**
+- **Cloud Technologies** (Microsoft 365 – Exchange Online, SharePoint, Teams, etc.), Azure AD, Intune
+- 	**Networking** (TCP/IP, DNS, DHCP, Routing and Switching, VLANs, VPN, Firewall, etc.)
+- 	**Operating Systems** (Windows Servers – Active Directory Domain Services, Group Policy Management, File and Printer Management, Windows Server Update Services, etc.), Windows 10/11, Linux (Ubuntu, Kali, CentOS)
+- 	**Virtualization** (Microsoft Hyper-V, Oracle VirtualBox, VMWare Workstation Pro.,)
+- 	**Security** (Antivirus management, Backup and Recovery, Patch management, User Access Control, Incident Response Basics, Compliance understanding (GDPR, ISO 27001)
+- 	**Remote Management** (Remote Desktop Protocol-RDP, TeamViewer / AnyDesk, Windows Admin Center
+- 	**Ticketing Systems** (ServiceNow, Jira, Zendesk, Peppermint)
+- 	**Communication and Collaboration** (Microsoft Teams, Slack, Zoom, SharePoint)
+- 	**Database Management** (SQL Server Basics, MySQL, Database backup and Restoration)
+- 	**Prompt Engineering**
+
+### 🔍 Cybersecurity & Investigations  
+- **Network Security**
+- **Digital Forensics**  
+- **Open-Source Intelligence (OSINT)**  
+- **Vulnerability Management** 
 
 ## Projects
+- Perimeter Defence and Identity Management [Firewall, Active Directory & Service Deployment]
 - Enterprise Windows Server Infrastructure Deployment & Management Lab using Hyper-V
 - Installation, configuration and management of Ghana Water Network - Regional and Sub offices.
 - Implementation Engineer for Ghana Case Tracking System 
